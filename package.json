@@ -1,0 +1,14 @@
+{
+  "name": "mout",
+  "version": "0.0.1",
+  "description": "make js library",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "matsuhei",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
